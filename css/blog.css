@@ -1,0 +1,13 @@
+.img_column {
+  width: 70%;
+  height: 150px;
+}
+
+.img_column:hover {
+  width: 75%;
+  height: 200px;
+}
+
+div {
+  margin-bottom: 3%
+}

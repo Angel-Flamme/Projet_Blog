@@ -1,0 +1,13 @@
+iframe {
+  float: right;
+  width: 75%;
+  height: 400px;
+}
+
+input, textarea {
+  width: 100%;
+}
+
+#submit {
+  height: 50px;
+}
